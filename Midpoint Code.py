@@ -1,3 +1,4 @@
+
 # User should be prompted to enter both x and y coordinates.
 
 print('What is your x1 value?:')
