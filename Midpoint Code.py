@@ -20,4 +20,4 @@ Y2 = float(input())
 
 # Code will generate a midpoint and print it to the user
 mid_point = ((X1 + X2) / 2, (Y1 + Y2) / 2)
-print(mid_point)
+print('Your midpoint value is', mid_point)
